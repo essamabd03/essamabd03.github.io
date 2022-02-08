@@ -54,10 +54,10 @@ p{
     margin-right: auto;
     width: 25%;
   }
-#all-images {
+#all-Images {
     display:flex;
 }
-.image {
+.Image {
     margin: 25px;
     width: 1000px;
 }
