@@ -24,7 +24,7 @@ p{
       text-align: center;
   }
   #body {
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("images/background-image.png");
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("Images/background-image.png");
     background-size: cover;
     background-repeat: no-repeat;
     width:100%;
