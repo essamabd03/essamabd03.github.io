@@ -1,3 +1,22 @@
+.fp-body-text {
+    text-align: center;
+    color:white;
+}
+.buttons ul {
+    list-style: none;
+}
+.buttons ul li {
+    margin-left: 110px;
+    display: inline-block;
+    font-size: 45px;
+}
+.buttons ul li a {
+    text-decoration: underline;
+    color: white;
+}
+.buttons ul li a:hover {
+    color:orange;
+}
 h1 {
     color:rgb(229, 174, 59);
     background-color: rgb(10, 11, 15);
