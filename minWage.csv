@@ -1,0 +1,13 @@
+Country,Minimum Wage (USD per Month),Year,GDP per Capita (USD),Unemployment Rate (%),Cost of Living Index
+United States,7.25,2021,65,298,6.0,100.0
+United Kingdom,10.00,2021,42,330,4.5,81.8
+Canada,11.32,2021,46,264,6.9,83.7
+Australia,19.84,2021,52,191,4.9,74.0
+Germany,9.60,2021,47,603,3.9,65.2
+France,10.25,2021,42,877,8.1,74.3
+Japan,8.65,2021,40,247,2.9,84.3
+Brazil,2.40,2021,9,130,14.3,49.6
+China,373.30,2021,10,582,5.4,45.9
+India,2.64,2021,2,104,6.1,25.1
+South Africa,168.40,2021,5,129,32.5,42.8
+Mexico,7.12,2021,9,415,4.9,33.9
