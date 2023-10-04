@@ -1,10 +1,10 @@
-Header 1, Header 2, Header 3
-Gender, Column B, Column C
-M, Data 2, Data 
-M, Data 5, Data 6
-M, Data 2, Data 
-M, Data 5, Data 6
-M, Data 2, Data 
-M, Data 5, Data 6
-M, Data 2, Data 
-M, Data 5, Data 6
+EmployeName,PerformanceScoreQ1,PerformanceScoreQ2,Total,Ranking,JoiningYear
+Tejaswi,95,86,181,1,2018
+Ramya,84,82,166,4,2019
+HariChandana,99,79,178,2,2021
+Meghana,92,89,181,1,2022
+Harika,78,81,159,6,2017
+Venkat,80,60,140,7,2016
+Akshay,87,73,160,5,2015
+Upender,81,93,174,3,2022
+SriLakshmi,68,72,140,7,2014
